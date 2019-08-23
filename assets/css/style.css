@@ -1,62 +1,8 @@
-.form-group {
-    margin-bottom: 5px;
-    padding: 0 10px;
-}
-
-form label {
-    text-transform: uppercase;
-    color: #000000;
-}
-
-form button {
-    text-transform: uppercase;
-    color: #fff;
-}
-
-form .enviar {
-    width: 95%;
-    margin-top: 5px;
-    font-size: 18px;
-    letter-spacing: 2px;
-    background-color: #000000;
-    padding-bottom: 15px;
-    padding-top: 13px;
-    border: solid 3px #fff;
-}
-
-form .enviar:hover,
-form .enviar:focus {
-    color: #ddd;
-}
-
-.group-form {
-    background-color: #fa520a;
-}
-
-form .tt-form {
-    width: 100%;
-    padding: 15px 0;
-    float: left;
-    background-color: #000000;
-    margin-bottom: 10px;
-}
-
-
-/* Extra Small */
-
-@media(max-width:767px) {}
-
-
-/* Small */
-
-@media(min-width:768px) and (max-width:991px) {}
-
-
-/* Medium */
-
-@media(min-width:992px) and (max-width:1199px) {}
-
-
-/* Large */
-
-@media(min-width:1200px) {}
+@import "reset.css";
+@import "menu.css";
+@import "home.css";
+@import "historia.css";
+@import "portfolio.css";
+@import "lancamentos.css";
+@import "futuros.css";
+@import "contato.css";

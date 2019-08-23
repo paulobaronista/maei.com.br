@@ -33,7 +33,6 @@
         );
         echo meta($meta);
         echo link_tag('assets/css/bootstrap.min.css');
-        echo link_tag('assets/css/reset.css?v=3');
         echo link_tag('assets/css/style.css?v=3');
         ?>
     </head>

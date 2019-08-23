@@ -10,7 +10,7 @@ class Contato extends CI_Controller
     }
     public function index()
     {
-        $data['title'] = 'LANDINGPAGEMODELO';
+        $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'description';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
@@ -21,7 +21,7 @@ class Contato extends CI_Controller
             $email = $this->input->post('email');
             $telefone = $this->input->post('phone');
             $mensagem = utf8_decode($this->input->post('mss'));
-            $assunto = utf8_decode('Contato enviado pelo site www.landingpagemodelo.com.br');
+            $assunto = utf8_decode('Contato enviado pelo site www.maei.com.br');
 
             $this->load->library('email');
             $config['mailtype'] = 'html';
@@ -63,7 +63,7 @@ class Contato extends CI_Controller
 
     public function obrigado()
     {
-        $data['title'] = 'LANDINGPAGEMODELO';
+        $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'description';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
@@ -78,7 +78,7 @@ class Contato extends CI_Controller
 
     public function fail()
     {
-        $data['title'] = 'LANDINGPAGEMODELO';
+        $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'description';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
