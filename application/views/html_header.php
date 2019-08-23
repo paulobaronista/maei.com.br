@@ -15,6 +15,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?= base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">
         <link rel="apple-touch-icon-precomposed" href="<?= base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">
         <link rel="image_src" href="<?= base_url(); ?>assets/images/compartilhamento.png" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap" rel="stylesheet">
         <meta name="theme-color" content="#5d1580"/>
         <!-- property (faz funcionar no linkedin) -->
         <meta property="og:title" content="NOME DO SITE" />

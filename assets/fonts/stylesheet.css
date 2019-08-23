@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-Book.eot');
+    src: url('Novecentowide-Book.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-Book.woff2') format('woff2'),
+        url('Novecentowide-Book.woff') format('woff'),
+        url('Novecentowide-Book.ttf') format('truetype'),
+        url('Novecentowide-Book.svg#Novecentowide-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-Normal.eot');
+    src: url('Novecentowide-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-Normal.woff2') format('woff2'),
+        url('Novecentowide-Normal.woff') format('woff'),
+        url('Novecentowide-Normal.ttf') format('truetype'),
+        url('Novecentowide-Normal.svg#Novecentowide-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-Light.eot');
+    src: url('Novecentowide-Light.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-Light.woff2') format('woff2'),
+        url('Novecentowide-Light.woff') format('woff'),
+        url('Novecentowide-Light.ttf') format('truetype'),
+        url('Novecentowide-Light.svg#Novecentowide-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-DemiBold.eot');
+    src: url('Novecentowide-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-DemiBold.woff2') format('woff2'),
+        url('Novecentowide-DemiBold.woff') format('woff'),
+        url('Novecentowide-DemiBold.ttf') format('truetype'),
+        url('Novecentowide-DemiBold.svg#Novecentowide-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-Bold.eot');
+    src: url('Novecentowide-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-Bold.woff2') format('woff2'),
+        url('Novecentowide-Bold.woff') format('woff'),
+        url('Novecentowide-Bold.ttf') format('truetype'),
+        url('Novecentowide-Bold.svg#Novecentowide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento sans wide Book';
+    src: url('Novecentosanswide-Bold.eot');
+    src: url('Novecentosanswide-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Novecentosanswide-Bold.woff2') format('woff2'),
+        url('Novecentosanswide-Bold.woff') format('woff'),
+        url('Novecentosanswide-Bold.ttf') format('truetype'),
+        url('Novecentosanswide-Bold.svg#Novecentosanswide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('Novecentowide-Medium.eot');
+    src: url('Novecentowide-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Novecentowide-Medium.woff2') format('woff2'),
+        url('Novecentowide-Medium.woff') format('woff'),
+        url('Novecentowide-Medium.ttf') format('truetype'),
+        url('Novecentowide-Medium.svg#Novecentowide-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

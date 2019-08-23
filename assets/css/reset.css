@@ -1,3 +1,61 @@
+/*font-family: 'Roboto', sans-serif;*/
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-Book.eot');
+    src: url('../fonts/Novecentowide-Book.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-Book.woff2') format('woff2'), url('../fonts/Novecentowide-Book.woff') format('woff'), url('../fonts/Novecentowide-Book.ttf') format('truetype'), url('../fonts/Novecentowide-Book.svg#Novecentowide-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-Normal.eot');
+    src: url('../fonts/Novecentowide-Normal.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-Normal.woff2') format('woff2'), url('../fonts/Novecentowide-Normal.woff') format('woff'), url('../fonts/Novecentowide-Normal.ttf') format('truetype'), url('../fonts/Novecentowide-Normal.svg#Novecentowide-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-Light.eot');
+    src: url('../fonts/Novecentowide-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-Light.woff2') format('woff2'), url('../fonts/Novecentowide-Light.woff') format('woff'), url('../fonts/Novecentowide-Light.ttf') format('truetype'), url('../fonts/Novecentowide-Light.svg#Novecentowide-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-DemiBold.eot');
+    src: url('../fonts/Novecentowide-DemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-DemiBold.woff2') format('woff2'), url('../fonts/Novecentowide-DemiBold.woff') format('woff'), url('../fonts/Novecentowide-DemiBold.ttf') format('truetype'), url('../fonts/Novecentowide-DemiBold.svg#Novecentowide-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-Bold.eot');
+    src: url('../fonts/Novecentowide-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-Bold.woff2') format('woff2'), url('../fonts/Novecentowide-Bold.woff') format('woff'), url('../fonts/Novecentowide-Bold.ttf') format('truetype'), url('../fonts/Novecentowide-Bold.svg#Novecentowide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento sans wide Book';
+    src: url('../fonts/Novecentosanswide-Bold.eot');
+    src: url('../fonts/Novecentosanswide-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentosanswide-Bold.woff2') format('woff2'), url('../fonts/Novecentosanswide-Bold.woff') format('woff'), url('../fonts/Novecentosanswide-Bold.ttf') format('truetype'), url('../fonts/Novecentosanswide-Bold.svg#Novecentosanswide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Novecento wide';
+    src: url('../fonts/Novecentowide-Medium.eot');
+    src: url('../fonts/Novecentowide-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/Novecentowide-Medium.woff2') format('woff2'), url('../fonts/Novecentowide-Medium.woff') format('woff'), url('../fonts/Novecentowide-Medium.ttf') format('truetype'), url('../fonts/Novecentowide-Medium.svg#Novecentowide-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
 .margin-top {
     margin-top: 10px;
 }
