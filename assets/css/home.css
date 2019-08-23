@@ -1,13 +1,35 @@
+.home {
+    position: relative;
+    width: 100%;
+}
+
 .logo {
+    width: 100%;
     position: absolute;
-    top: 30%;
-    right: 24%;
+    top: 0;
+}
+
+.logo img {
+    float: right;
+    margin-top: 190px;
 }
 
 
 /* Extra Small */
 
-@media(max-width:767px) {}
+@media(max-width:767px) {
+    .logo {
+        width: 100%;
+        position: absolute;
+        top: 0;
+    }
+    .logo img {
+        float: none;
+        width: 65%;
+        display: block;
+        margin: 25px auto 0;
+    }
+}
 
 
 /* Small */

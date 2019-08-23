@@ -1,4 +1,4 @@
-<div class="home">
+<div id="#home" class="home">
     <section class="carousel-default">
         <div id="carousel-default" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
@@ -17,8 +17,56 @@
             </div>
         </div>
     </section>
-    <img class="img-responsive logo" src="<?= base_url(); ?>assets/images/logo-ma.png" alt="M.A Empreendimentos Imobiliários">
+    <div class="logo">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/logo-ma.png" alt="M.A Empreendimentos Imobiliários">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<div id="historia" class="historia">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                <h2>história</h2>
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
+                <h6>Uma história de realizações. Um futuro de sucesso.</h6>
+                <p>Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários
+                    (antiga Munir Abbud Empreendimentos Imobiliários), que ao longo de mais de quatro
+                    décadas vem desenvolvendo dezenas de empreendimentos consagrados, ajudando
+                    escrever a história da construção civil de São Paulo. Porém, nada disso seria possível
+                    sem investimentos constantes em tecnologia e capacitação profissional,
+                    que transformaram a M.A. em sinônimo de pioneirismo e inovação em todos
+                    os segmentos imobiliários. Uma empresa sólida, com uma história repleta de realizações,
+                    um presente de muito trabalho e um futuro altamente promissor. Os próximos 40 anos
+                    da M.A. estão apenas começando. Seja bem-vindo a essa nova jornada.</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 margin-top-40 text-center">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-1.jpg" alt="História">
+                <p class="pull-right">tradição.<br>
+                    Segurança.<br>
+                    Qualidade.</p>
+            </div>
+        </div>
+    </div>
+    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-2.jpg" alt="História">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="contato">
     <div class="container">

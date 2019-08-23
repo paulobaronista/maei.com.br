@@ -1,12 +1,13 @@
 .navbar-default {
-    background-color: transparent;
+    background-color: red;
     border-color: transparent;
     border-radius: 0px;
     margin-bottom: 0px;
-    position: absolute;
+    position: fixed;
     width: 100%;
     top: 20px;
     z-index: 10;
+    min-height: auto;
 }
 
 .navbar-nav {
