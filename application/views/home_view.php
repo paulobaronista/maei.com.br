@@ -1,12 +1,23 @@
-<img class="img-responsive" src="<?= base_url(); ?>assets/images/teste.png" alt="">
-
 <div class="home">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
+    <section class="carousel-default">
+        <div id="carousel-default" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-1.jpg" alt="Banner">
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-2.jpg" alt="Banner">
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-3.jpg" alt="Banner">
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-4.jpg" alt="Banner">
+                </div>
             </div>
         </div>
-    </div>
+    </section>
+    <img class="img-responsive logo" src="<?= base_url(); ?>assets/images/logo-ma.png" alt="M.A Empreendimentos Imobiliários">
 </div>
 
 <div class="contato">

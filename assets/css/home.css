@@ -1,3 +1,10 @@
+.logo {
+    position: absolute;
+    top: 30%;
+    right: 24%;
+}
+
+
 /* Extra Small */
 
 @media(max-width:767px) {}
