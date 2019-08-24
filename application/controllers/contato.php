@@ -11,7 +11,7 @@ class Contato extends CI_Controller
     public function index()
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
-        $data['description'] = 'description';
+        $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_view';
@@ -66,7 +66,7 @@ class Contato extends CI_Controller
     public function obrigado()
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
-        $data['description'] = 'description';
+        $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_sucesso';
@@ -81,7 +81,7 @@ class Contato extends CI_Controller
     public function fail()
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
-        $data['description'] = 'description';
+        $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_insucesso';

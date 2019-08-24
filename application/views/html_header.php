@@ -5,9 +5,9 @@
         <title><?php echo $title; ?></title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="NOME DO SITE" />
-        <meta name="og:title" content="NOME DO SITE" />
-        <meta name="og:description" content="DESCRIÇÃO" />
+        <meta name="title" content="M.A Empreendimentos Imobiliários" />
+        <meta name="og:title" content="M.A Empreendimentos Imobiliários" />
+        <meta name="og:description" content="Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários" />
         <meta name="og:image" content="<?= base_url(); ?>assets/images/compartilhamento.png" />
         <link rel="icon" href="<?= base_url(); ?>assets/images/favicon.png">
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?= base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">
@@ -16,12 +16,12 @@
         <link rel="apple-touch-icon-precomposed" href="<?= base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">
         <link rel="image_src" href="<?= base_url(); ?>assets/images/compartilhamento.png" />
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap" rel="stylesheet">
-        <meta name="theme-color" content="#5d1580"/>
+        <meta name="theme-color" content="#f9dc30"/>
         <!-- property (faz funcionar no linkedin) -->
-        <meta property="og:title" content="NOME DO SITE" />
+        <meta property="og:title" content="M.A Empreendimentos Imobiliários" />
         <meta property="og:image" content="<?= base_url(); ?>assets/images/compartilhamento.png" />
-        <meta property="NOME DO SITE" />
-        <meta property="og:url" content="https://www.landingpagemodelo.com.br" />
+        <meta property="M.A Empreendimentos Imobiliários" />
+        <meta property="og:url" content="https://www.maei.com.br" />
         <!-- property (faz funcionar no linkedin) -->
         <?php
         $meta = array(

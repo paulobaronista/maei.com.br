@@ -8,7 +8,7 @@ class Home extends CI_Controller{
     }
     public function index(){
         $data['title'] = 'M.A Empreendimentos Imobiliários';
-        $data['description'] = 'description';
+        $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
         $data['keywords'] = 'keywords';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'home_view';

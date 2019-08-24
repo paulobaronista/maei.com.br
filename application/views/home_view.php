@@ -56,6 +56,35 @@
     <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-2.jpg" alt="História">
 </div>
 
+<div id="portfolio" class="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                <h2>Portfolio</h2>
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+                <div class="col-xs-12 col-md-6">
+                    <p>empreendimentos comerciais</p>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nemo magni debitis, reprehenderit eos error temporibus in consequatur ab natus optio, tenetur libero sequi quos, alias molestiae quam dolores suscipit.
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+                <div class="col-xs-12 col-md-6">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nemo magni debitis, reprehenderit eos error temporibus in consequatur ab natus optio, tenetur libero sequi quos, alias molestiae quam dolores suscipit.
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <p>empreendimentos residenciais</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 <div id="lancamentos" class="lancamentos">
     <div class="box-degrade">
         <div class="container">
