@@ -1,3 +1,18 @@
+.contato {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#74787c+0,c5c8cb+72,c5c8cb+72,c5c8cb+72,c5c8cb+100 */
+    background: #74787c;
+    /* Old browsers */
+    background: -moz-linear-gradient(left, #74787c 0%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #74787c 0%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #74787c 0%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 72%, #c5c8cb 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#74787c', endColorstr='#c5c8cb', GradientType=1);
+    /* IE6-9 */
+}
+
+
 /* Extra Small */
 
 @media(max-width:767px) {}

@@ -20,6 +20,7 @@ class Contato extends CI_Controller
             $nome = $this->input->post('nome');
             $email = $this->input->post('email');
             $telefone = $this->input->post('phone');
+            $interesse = $this->input->post('interesse');
             $mensagem = utf8_decode($this->input->post('mss'));
             $assunto = utf8_decode('Contato enviado pelo site www.maei.com.br');
 
@@ -35,14 +36,15 @@ class Contato extends CI_Controller
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>
             <head> <meta http-equiv='content-type' content='text/html;charset=UTF-8' /> </head><body>
             Nome:		{$nome}<br/>
-                E-mail:		{$email}<br/>
-                    Telefone:	{$telefone}<br/>
-                        Mensagem:	{$mensagem}<br/>
+                Telefone:	{$telefone}<br/>
+                    E-mail:		{$email}<br/>
+                        Assunto:	{$interesse}<br/>
+                            Mensagem:	{$mensagem}<br/>
                             </body></html>");
 
-            if($this->email->send()){
+            if ($this->email->send()) {
                 redirect('https://www.maei.com.br/contato/obrigado');
-            }else{
+            } else {
                 redirect('https://www.maei.com.br/contato/fail');
             }
 
