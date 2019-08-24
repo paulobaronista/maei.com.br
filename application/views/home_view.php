@@ -1,4 +1,4 @@
-<div id="#home" class="home">
+<div id="home" class="home">
     <section class="carousel-default">
         <div id="carousel-default" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
@@ -56,17 +56,61 @@
     <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-2.jpg" alt="História">
 </div>
 
+<div id="lancamentos" class="lancamentos">
+    <div class="box-degrade">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                    <h2>lançamentos</h2>
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
+                    <p>Conheça nossos novos ícones arquitetônicos.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="container lancamentos-info">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 padding-off-mobile">
+            <div class="col-xs-12 col-sm-12 col-md-7 text-center">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lancamentos.png" alt="Lançamentos">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-5 text-left">
+                <h3>varanda<br>
+                    cidade jardim</h3>
 
+                <p>273 m2<br>
+                    3 e 2 Suítes<br>
+                    4 Vagas<br>
+                    Depósito Privativo</p>
+                <a href="">Saiba Mais</a>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div id="futuros-lancamentos" class="lancamentos-futuros">
+    <div class="box-degrade">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                    <h2>futuros lancamentos</h2>
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
+                    <p>Acompanhe aqui as novidades.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-
-
-
-
-
-
-
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 padding-off-mobile">
+            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/futuros-lancamentos.jpg" alt="Futuros Lançamentos">
+        </div>
+    </div>
+</div>
 
 <div class="contato">
     <div class="container">

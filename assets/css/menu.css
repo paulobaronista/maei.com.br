@@ -1,5 +1,5 @@
 .navbar-default {
-    background-color: red;
+    background-color: transparent;
     border-color: transparent;
     border-radius: 0px;
     margin-bottom: 0px;
@@ -99,4 +99,8 @@
 
 /* Large */
 
-@media(min-width:1200px) {}
+@media(min-width:1200px) {
+    .navbar-default {
+        background-color: red;
+    }
+}
