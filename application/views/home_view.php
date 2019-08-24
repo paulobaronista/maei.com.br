@@ -153,19 +153,28 @@
                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
                     <div class="col-xs-12 col-md-4">
                         <h6>endereço</h6>
-                        <p>Rua Funchal, 375 • 13º andar<br>
-                            V. Olímpia • São Paulo/SP<br>
-                            04551-060</p>
+                        <span>
+                            <img src="<?= base_url(); ?>assets/images/icone-local.png" alt="Endereço">
+                            <p>Rua Funchal, 375 • 13º andar<br>
+                                V. Olímpia • São Paulo/SP<br>
+                                04551-060</p>
+                        </span>
                     </div>
                     <div class="col-xs-12 col-md-4">
                         <h6>Pelo Telefone</h6>
-                        <p>11 3044.0400</p>
+                        <span>
+                            <img src="<?= base_url(); ?>assets/images/icone-telefone.png" alt="Telefone">
+                            <p><strong>11 3044.0400</strong></p>
+                        </span>
                     </div>
                     <div class="col-xs-12 col-md-4">
                         <h6>Pelo WHATSapp</h6>
-                        <p>11 9000.0000</p>
+                        <span>
+                            <img src="<?= base_url(); ?>assets/images/icone-whatsapp.png" alt="WhatsApp">
+                            <p><strong>11 9000.0000</strong></p>
+                        </span>
                     </div>
-                    <div class="col-xs-12">
+                    <div class="col-xs-12 redes">
                         <ul>
                             <li>
                                 <a href="">
