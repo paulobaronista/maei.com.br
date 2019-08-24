@@ -10,6 +10,10 @@
     min-height: auto;
 }
 
+.navbarBG {
+    background: rgba(0, 0, 0, 0.5);
+}
+
 .navbar-nav {
     float: none;
     margin: 0 auto;
@@ -39,6 +43,7 @@
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
+    z-index: 10;
 }
 
 .navbar-default .navbar-toggle:focus,
@@ -82,7 +87,13 @@
     .navbar-default .navbar-collapse,
     .navbar-default .navbar-form {
         border-color: transparent;
-        background: rgba(0, 0, 0, 0.5);
+        background: rgba(0, 0, 0, 0.8);
+        margin-top: -45px;
+        width: 100%;
+        position: absolute;
+    }
+    .navbarBG {
+        background: transparent;
     }
 }
 
@@ -99,8 +110,4 @@
 
 /* Large */
 
-@media(min-width:1200px) {
-    .navbar-default {
-        background-color: red;
-    }
-}
+@media(min-width:1200px) {}

@@ -87,7 +87,8 @@
 /* Extra Small */
 
 @media(max-width:767px) {
-    .lancamentos {
+    .lancamentos,
+    .lancamentos-futuros {
         padding-top: 0px;
     }
     .lancamentos .box-degrade {

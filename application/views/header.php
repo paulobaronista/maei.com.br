@@ -12,12 +12,12 @@
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#historia">História</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#lancamentos">Lançamentos</a></li>
-                    <li><a href="#futuros-lancamentos">Futuros Lançamentos</a></li>
-                    <li><a href="#contato">Contato</a></li>
+                    <li><a class="scrollink" href="#home">Home</a></li>
+                    <li><a class="scrollink" href="#historia">História</a></li>
+                    <li><a class="scrollink" href="#portfolio">Portfolio</a></li>
+                    <li><a class="scrollink" href="#lancamentos">Lançamentos</a></li>
+                    <li><a class="scrollink" href="#futuros-lancamentos">Futuros Lançamentos</a></li>
+                    <li><a class="scrollink" href="#contato">Contato</a></li>
                 </ul>
             </div>
         </div>
