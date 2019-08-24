@@ -116,12 +116,12 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
-                <p>Entre em contato e marque uma reunião com nossos diretores.<br>
+                <p class="txt">Entre em contato e marque uma reunião com nossos diretores.<br>
                     Há sempre um bom negócio esperando por você.</p>
                 <h2>Contato</h2>
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 margin-top-30">
                 <form method="post" role="form" action="<?php echo base_url("contato") ?>">
                     <div class="group-form">
                         <div class="col-xs-12 col-md-12 padding-off-mobile form-group">
@@ -136,10 +136,10 @@
                         <div class="col-xs-12 col-md-12 padding-off-mobile form-group">
                             <input id="interesse" type="text" class="interesse form-control" name="interesse" placeholder="Assunto:" />
                         </div>
-                        <div class="col-xs-12 col-md-9 padding-off-mobile form-group">
+                        <div class="col-xs-12 col-md-8 padding-off-mobile form-group">
                             <textarea id="form-mensagem" class="msg form-control" rows="3" name="mss" placeholder="Mensagem:"></textarea>
                         </div>
-                        <div class="col-xs-12 col-md-3 padding-off-mobile form-group">
+                        <div class="col-xs-12 col-md-4 padding-off-mobile form-group">
                             <button type="submit" class="btn_enviar enviar btn center-block" title="enviar" name="enviar_email" value="enviar">Enviar</button>
                         </div>
                     </div>
