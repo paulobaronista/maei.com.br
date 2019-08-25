@@ -1,15 +1,18 @@
 <?php
-if(!defined('BASEPATH')) exit('No direct script access allowed');
+if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class Home extends CI_Controller{
+class Home extends CI_Controller
+{
 
-    public function __construct(){
+    public function __construct()
+    {
         parent::__construct();
     }
-    public function index(){
+    public function index()
+    {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
-        $data['keywords'] = 'keywords';
+        $data['keywords'] = 'Empreendimentos, Imobiliários, M.A, Munir Abbud, Alto Padrão, Cidade Jardim';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'home_view';
         $this->load->view('html_header', $data);
@@ -18,9 +21,7 @@ class Home extends CI_Controller{
         $this->load->view('conteudo', $conteudo);
         $this->load->view('rodape');
         $this->load->view('html_footer');
-
     }
-
 }
 
 /* Location: ./application/controllers/home.php */

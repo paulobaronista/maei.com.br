@@ -12,7 +12,7 @@ class Contato extends CI_Controller
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
-        $data['keywords'] = 'keywords';
+        $data['keywords'] = 'Empreendimentos, Imobiliários, M.A, Munir Abbud, Alto Padrão, Cidade Jardim';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_view';
 
@@ -30,7 +30,7 @@ class Contato extends CI_Controller
 
             $this->email->from("contato@maei.com.br", "$nome"); //senha: @piTs23A
             $this->email->to('contato@maei.com.br');
-            $this->email->cc('paulobaronista@gmail.com');
+            $this->email->cc('jota@maei.com.br, paulobaronista@gmail.com');
 
             $this->email->subject($assunto);
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>
@@ -67,7 +67,7 @@ class Contato extends CI_Controller
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
-        $data['keywords'] = 'keywords';
+        $data['keywords'] = 'Empreendimentos, Imobiliários, M.A, Munir Abbud, Alto Padrão, Cidade Jardim';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_sucesso';
         $this->load->view('html_header', $data);
@@ -82,7 +82,7 @@ class Contato extends CI_Controller
     {
         $data['title'] = 'M.A Empreendimentos Imobiliários';
         $data['description'] = 'Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos Imobiliários';
-        $data['keywords'] = 'keywords';
+        $data['keywords'] = 'Empreendimentos, Imobiliários, M.A, Munir Abbud, Alto Padrão, Cidade Jardim';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_insucesso';
         $this->load->view('html_header', $data);

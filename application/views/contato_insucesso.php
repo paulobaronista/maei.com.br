@@ -209,7 +209,7 @@
                     3 e 2 Suítes<br>
                     4 Vagas<br>
                     Depósito Privativo</p>
-                <a href="">Saiba Mais</a>
+                <a href="https://varandacidadejardim.com.br/" target="_black">Saiba Mais</a>
             </div>
         </div>
     </div>
@@ -289,17 +289,17 @@
                         <h6>Pelo Telefone</h6>
                         <span>
                             <img src="<?= base_url(); ?>assets/images/icone-telefone.png" alt="Telefone">
-                            <p><strong>11 3044.0400</strong></p>
+                            <p><strong>(011) 3055-2124</strong></p>
                         </span>
                     </div>
-                    <div class="col-xs-12 col-md-4">
+                    <!-- <div class="col-xs-12 col-md-4">
                         <h6>Pelo WHATSapp</h6>
                         <span>
                             <img src="<?= base_url(); ?>assets/images/icone-whatsapp.png" alt="WhatsApp">
                             <p><strong>11 9000.0000</strong></p>
                         </span>
-                    </div>
-                    <div class="col-xs-12 redes">
+                    </div> -->
+                    <!-- <div class="col-xs-12 redes">
                         <ul>
                             <li>
                                 <a href="">
@@ -322,7 +322,7 @@
                                 </a>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
