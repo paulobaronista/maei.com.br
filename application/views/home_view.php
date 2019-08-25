@@ -59,31 +59,97 @@
 <div id="portfolio" class="portfolio">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 tt text-center">
                 <h2>Portfolio</h2>
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-                <div class="col-xs-12 col-md-6">
-                    <p>empreendimentos comerciais</p>
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
+                <div class="col-xs-12 col-sm-6">
+                    <p>empreendimentos <span>comerciais</span></p>
                 </div>
-                <div class="col-xs-12 col-md-6">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nemo magni debitis, reprehenderit eos error temporibus in consequatur ab natus optio, tenetur libero sequi quos, alias molestiae quam dolores suscipit.
+                <div class="col-xs-12 col-sm-6 padding-off-mobile">
+                    <div class="carousel slide media-carousel" id="comerciais">
+                        <div class="carousel-inner">
+                            <div class="item  active">
+                                <div class="row">
+                                    <div class=" col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a data-slide="prev" href="#comerciais" class="left carousel-control">‹</a>
+                        <a data-slide="next" href="#comerciais" class="right carousel-control">›</a>
+                    </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-                <div class="col-xs-12 col-md-6">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nemo magni debitis, reprehenderit eos error temporibus in consequatur ab natus optio, tenetur libero sequi quos, alias molestiae quam dolores suscipit.
+            <div class="col-xs-12 visible-xs margin-top-20"></div>
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
+                <div class="col-xs-12 col-sm-6 visible-xs">
+                    <p>empreendimentos <span>residenciais</span></p>
                 </div>
-                <div class="col-xs-12 col-md-6">
-                    <p>empreendimentos residenciais</p>
+                <div class="col-xs-12 col-sm-6 padding-off-mobile">
+                    <div class="carousel slide media-carousel" id="residenciais">
+                        <div class="carousel-inner">
+                            <div class="item  active">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a data-slide="prev" href="#residenciais" class="left carousel-control">‹</a>
+                        <a data-slide="next" href="#residenciais" class="right carousel-control">›</a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 hidden-xs">
+                    <p>empreendimentos <span>residenciais</span></p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
 
 <div id="lancamentos" class="lancamentos">
     <div class="box-degrade">

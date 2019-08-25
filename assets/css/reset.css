@@ -184,6 +184,10 @@
     margin-top: 400px;
 }
 
+.mb-20 {
+    margin-bottom: 20px;
+}
+
 .padding-off {
     padding-left: 0px !important;
     padding-right: 0px !important;

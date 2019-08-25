@@ -1,3 +1,15 @@
+$(document).ready(function() {
+    $('#residenciais').carousel({
+        pause: true,
+        interval: false,
+    });
+    $('#comerciais').carousel({
+        pause: true,
+        interval: false,
+    });
+});
+
+
 // Script Scroll OnPage
 $(document).ready(function() {
     $(document).on("scroll", onScroll);
