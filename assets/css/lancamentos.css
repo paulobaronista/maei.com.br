@@ -1,6 +1,7 @@
 .lancamentos,
 .lancamentos-futuros {
     padding-top: 67px;
+    overflow: hidden;
 }
 
 .lancamentos .box-degrade,
@@ -40,6 +41,10 @@
     font-size: 30px;
     line-height: 30px;
     margin: 20px 0 0 0;
+}
+
+.lancamentos-info {
+    overflow: hidden;
 }
 
 .lancamentos-info h3 {

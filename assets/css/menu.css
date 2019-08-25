@@ -43,7 +43,7 @@
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    z-index: 10;
+    z-index: 400;
 }
 
 .navbar-default .navbar-toggle:focus,
@@ -91,6 +91,7 @@
         margin-top: -45px;
         width: 100%;
         position: absolute;
+        z-index: 300;
     }
     .navbarBG {
         background: transparent;

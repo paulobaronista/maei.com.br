@@ -21,14 +21,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-                    <img class="img-responsive" src="<?= base_url(); ?>assets/images/logo-ma.png" alt="M.A Empreendimentos Imobiliários">
+                    <img class="img-responsive animated bounceInRight" src="<?= base_url(); ?>assets/images/logo-ma.png" alt="M.A Empreendimentos Imobiliários">
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div id="historia" class="historia">
+<div id="historia" class="historia animated wow fadeInUp">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
@@ -45,7 +45,7 @@
                     um presente de muito trabalho e um futuro altamente promissor. Os próximos 40 anos
                     da M.A. estão apenas começando. Seja bem-vindo a essa nova jornada.</p>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 margin-top-40 text-center">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 margin-top-40 text-center animated wow zoomIn">
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-1.jpg" alt="História">
                 <p class="pull-right">tradição.<br>
                     Segurança.<br>
@@ -63,7 +63,7 @@
                 <h2>Portfolio</h2>
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile animated wow bounceInRight">
                 <div class="col-xs-12 col-sm-6">
                     <p class="p-r">empreendimentos <span>comerciais</span></p>
                 </div>
@@ -113,7 +113,7 @@
                 </div>
             </div>
             <div class="col-xs-12 visible-xs margin-top-20"></div>
-            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile animated wow bounceInLeft">
                 <div class="col-xs-12 col-sm-6 visible-xs">
                     <p>empreendimentos <span>residenciais</span></p>
                 </div>
@@ -169,7 +169,7 @@
     </div>
 </div>
 
-<div id="lancamentos" class="lancamentos">
+<div id="lancamentos" class="lancamentos animated wow fadeInUp">
     <div class="box-degrade">
         <div class="container">
             <div class="row">
@@ -183,7 +183,7 @@
     </div>
 </div>
 
-<div class="container lancamentos-info">
+<div class="container lancamentos-info animated wow fadeInUp">
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 padding-off-mobile">
             <div class="col-xs-12 col-sm-12 col-md-7 text-center">
@@ -203,7 +203,7 @@
     </div>
 </div>
 
-<div id="futuros-lancamentos" class="lancamentos-futuros">
+<div id="futuros-lancamentos" class="lancamentos-futuros animated wow fadeInUp">
     <div class="box-degrade">
         <div class="container">
             <div class="row">
@@ -217,7 +217,7 @@
     </div>
 </div>
 
-<div class="container">
+<div class="container animated wow fadeInUp" style="overflow: hidden;">
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 padding-off-mobile">
             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/futuros-lancamentos.jpg" alt="Futuros Lançamentos">
@@ -225,7 +225,7 @@
     </div>
 </div>
 
-<div id="contato" class="contato">
+<div id="contato" class="contato animated wow slideInUp">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">

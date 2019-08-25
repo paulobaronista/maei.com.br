@@ -12,6 +12,7 @@
     /* IE6-9 */
     padding-top: 67px;
     padding-bottom: 30px;
+    overflow: hidden;
 }
 
 .contato h2 {

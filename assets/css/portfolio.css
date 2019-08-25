@@ -37,6 +37,7 @@
 .portfolio {
     padding-top: 90px;
     background: url(../images/gravatinha.png) center 58% no-repeat;
+    overflow: hidden;
 }
 
 .portfolio .tt {

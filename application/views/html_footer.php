@@ -3,6 +3,7 @@
 echo script_tag('assets/js/jquery.clearinput.js');
 echo script_tag('assets/js/jFuncoes.js');
 echo script_tag('assets/js/bootstrap.min.js');
+echo script_tag('assets/js/wow.min.js');
 ?>
 </body>
 </html>

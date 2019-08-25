@@ -1,4 +1,13 @@
 $(document).ready(function() {
+    var wow = new WOW({
+        boxClass: 'wow', // animated element css class (default is wow)
+        animateClass: 'animated', // animation css class (default is animated)
+    });
+    wow.init();
+});
+
+
+$(document).ready(function() {
     $('#residenciais').carousel({
         pause: true,
         interval: false,
