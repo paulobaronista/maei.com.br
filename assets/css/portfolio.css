@@ -68,6 +68,10 @@
     line-height: 20px;
 }
 
+.portfolio .p-r {
+    float: right;
+}
+
 
 /* Extra Small */
 
@@ -87,6 +91,9 @@
     }
     .portfolio .tt {
         margin-bottom: 15px;
+    }
+    .portfolio .p-r {
+        float: none
     }
 }
 

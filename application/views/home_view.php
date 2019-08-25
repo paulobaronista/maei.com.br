@@ -65,7 +65,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
                 <div class="col-xs-12 col-sm-6">
-                    <p>empreendimentos <span>comerciais</span></p>
+                    <p class="p-r">empreendimentos <span>comerciais</span></p>
                 </div>
                 <div class="col-xs-12 col-sm-6 padding-off-mobile">
                     <div class="carousel slide media-carousel" id="comerciais">
@@ -83,7 +83,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Cidade-Jardim.png" alt="Cidade Jardim">
                                         </a>
                                     </div>
                                 </div>
@@ -92,7 +92,16 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Tower-Sao-Paulo.png" alt="Tower São Paulo">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-The-Office.png" alt="Paulista The Office">
                                         </a>
                                     </div>
                                 </div>
@@ -115,7 +124,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/ed-quasar.png" alt="Ed. Quasar">
                                         </a>
                                     </div>
                                 </div>
@@ -124,7 +133,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Palazzo-Ravena.png" alt="Palazzo Ravena">
                                         </a>
                                     </div>
                                 </div>
@@ -133,7 +142,16 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Condominio-Champs-Elysees.png" alt="Condomínio Champs Elysées">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Guaruja-Tortugas.png" alt="Guarujá Tortugas | Guarujá">
                                         </a>
                                     </div>
                                 </div>
