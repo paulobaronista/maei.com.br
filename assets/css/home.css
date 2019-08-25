@@ -14,20 +14,45 @@
     margin-top: 190px;
 }
 
+.avisos {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+}
+
+.avisos p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #3c3f44;
+    font-size: 20px;
+    line-height: 35px;
+    margin: 400px 0 0 0;
+    background: #fbef23;
+    padding: 10px 25px;
+    display: block;
+    float: right;
+}
+
 
 /* Extra Small */
 
 @media(max-width:767px) {
-    .logo {
-        width: 100%;
-        position: absolute;
-        top: 0;
-    }
     .logo img {
         float: none;
         width: 65%;
         display: block;
         margin: 25px auto 0;
+    }
+    .avisos {
+        position: relative;
+    }
+    .avisos p {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 10px;
+        text-align: center;
+        margin: 0 0 0 0;
     }
 }
 
