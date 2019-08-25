@@ -73,8 +73,8 @@
                             <div class="item  active">
                                 <div class="row">
                                     <div class=" col-xs-12 col-md-12">
-                                        <a href="#">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="trade building">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-trade-building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="Trade Building">
                                         </a>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Cidade-Jardim">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Cidade-Jardim.png" alt="Cidade Jardim">
                                         </a>
                                     </div>
@@ -91,7 +91,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Tower-Sao-Paulo">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Tower-Sao-Paulo.png" alt="Tower São Paulo">
                                         </a>
                                     </div>
@@ -100,7 +100,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Paulista-The-Office">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-The-Office.png" alt="Paulista The Office">
                                         </a>
                                     </div>
@@ -123,7 +123,7 @@
                             <div class="item  active">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-ed-quasar">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/ed-quasar.png" alt="Ed. Quasar">
                                         </a>
                                     </div>
@@ -132,7 +132,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Palazzo-Ravena">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Palazzo-Ravena.png" alt="Palazzo Ravena">
                                         </a>
                                     </div>
@@ -141,7 +141,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Condominio-Champs-Elysees">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Condominio-Champs-Elysees.png" alt="Condomínio Champs Elysées">
                                         </a>
                                     </div>
@@ -150,7 +150,7 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Guaruja-Tortugas">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Guaruja-Tortugas.png" alt="Guarujá Tortugas | Guarujá">
                                         </a>
                                     </div>
