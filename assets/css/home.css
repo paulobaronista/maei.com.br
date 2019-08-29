@@ -2,6 +2,7 @@
     position: relative;
     width: 100%;
     overflow: hidden;
+    max-height: 675px;
 }
 
 .logo {
@@ -29,7 +30,7 @@
     font-size: 20px;
     line-height: 35px;
     margin: 400px 0 0 0;
-    background: #fbef23;
+    background: #dccd6b;
     padding: 10px 25px;
     display: block;
     float: right;

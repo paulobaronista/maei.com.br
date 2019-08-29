@@ -30,7 +30,7 @@ class Contato extends CI_Controller
 
             $this->email->from("contato@maei.com.br", "$nome"); //senha: @piTs23A
             $this->email->to('contato@maei.com.br');
-            $this->email->cc('jota@maei.com.br, paulobaronista@gmail.com');
+            $this->email->cc('maei@maei.com.br, jota@maei.com.br, renata@spicycomm.com.br, paulobaronista@gmail.com');
 
             $this->email->subject($assunto);
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>

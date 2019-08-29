@@ -211,14 +211,17 @@ p {
     background: rgba(0, 0, 0, 0.7);
 }
 
-.modal img {
-    border: solid 15px #f7ee42;
+.modal-dialog {
+    margin: 60px auto;
 }
 
 .close,
 .close:hover {
     color: #fff;
     opacity: 1;
+    position: absolute;
+    right: 0px;
+    top: -25px;
 }
 
 
@@ -228,8 +231,5 @@ p {
     .padding-off-mobile {
         padding-left: 0px !important;
         padding-right: 0px !important;
-    }
-    .modal img {
-        border: solid 5px #f7ee42;
     }
 }
