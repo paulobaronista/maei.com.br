@@ -12,18 +12,14 @@
                 <div class="item active">
                     <div class="row">
                         <div class="col-xs-12 col-md-12">
-                            <a href="#" data-toggle="modal" data-target="#Modal-Cidade-Jardim">
-                                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim.jpg" alt="Cidade Jardim">
-                            </a>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim.jpg" alt="Cidade Jardim">
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="row">
                         <div class=" col-xs-12 col-md-12">
-                            <a href="#" data-toggle="modal" data-target="#Modal-trade-building">
-                                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim-2.jpg" alt="Cidade Jardim">
-                            </a>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim-2.jpg" alt="Cidade Jardim">
                         </div>
                     </div>
                 </div>
