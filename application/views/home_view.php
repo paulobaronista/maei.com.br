@@ -188,7 +188,7 @@
                 <h3>varanda<br>
                     cidade jardim</h3>
 
-                <p>273 m2<br>
+                <p>253 m2<br>
                     3 e 2 Suítes<br>
                     4 Vagas<br>
                     Depósito Privativo</p>
