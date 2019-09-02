@@ -33,13 +33,30 @@
 }
 
 .historia .pull-right {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Novecento wide';
     font-weight: bold;
     color: #484b51;
     text-transform: uppercase;
     font-size: 40px;
     line-height: 40px;
     margin: 20px 0 22px 0;
+    text-align: right;
+}
+
+.banner-historia {
+    background: url(../images/banner-historia-2.jpg) center center no-repeat;
+    background-size: cover;
+    height: 642px;
+}
+
+.banner-historia .pull-right {
+    font-family: 'Novecento wide';
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 40px;
+    margin: 30px 0 22px 0;
     text-align: right;
 }
 
@@ -62,6 +79,14 @@
         text-align: justify;
     }
     .historia .pull-right {
+        font-size: 20px;
+        line-height: 20px;
+        margin: 20px 0 22px 0;
+    }
+    .banner-historia {
+        height: 300px;
+    }
+    .banner-historia .pull-right {
         font-size: 20px;
         line-height: 20px;
         margin: 20px 0 22px 0;

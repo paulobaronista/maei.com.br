@@ -1,6 +1,9 @@
+.lancamentos {
+    padding-top: 67px;
+}
+
 .lancamentos,
 .lancamentos-futuros {
-    padding-top: 67px;
     overflow: hidden;
 }
 
@@ -75,7 +78,6 @@
     font-size: 15px;
     line-height: 15px;
     background: #dccd6b;
-    ;
     color: #464b50;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;

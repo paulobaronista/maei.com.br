@@ -8,9 +8,9 @@
                 <div class="item">
                     <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-2.jpg" alt="Banner">
                 </div>
-                <div class="item">
+                <!-- <div class="item">
                     <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-3.jpg" alt="Banner">
-                </div>
+                </div>-->
                 <div class="item">
                     <img class="img-responsive" src="<?= base_url(); ?>assets/images/banner-4.jpg" alt="Banner">
                 </div>
@@ -48,7 +48,18 @@
             </div>
         </div>
     </div>
-    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/banner-historia-2.jpg" alt="História">
+</div>
+
+<div id="banner-historia" class="banner-historia animated wow fadeInUp">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-right">
+                <p class="pull-right">Três pilares<br>
+                    do nosso trabalho<br>
+                    e de nossas obras.</p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div id="portfolio" class="portfolio">
@@ -180,7 +191,7 @@
 
 <div class="container lancamentos-info animated wow fadeInUp">
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 padding-off-mobile">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile">
             <div class="col-xs-12 col-sm-12 col-md-7 text-center">
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lancamentos.png" alt="Lançamentos">
             </div>

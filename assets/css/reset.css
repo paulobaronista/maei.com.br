@@ -215,6 +215,10 @@ p {
     margin: 60px auto;
 }
 
+.modal-dialog .carousel-control {
+    opacity: 1;
+}
+
 .close,
 .close:hover {
     color: #fff;
