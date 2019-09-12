@@ -219,6 +219,14 @@ p {
     opacity: 1;
 }
 
+.modal-dialog p {
+    font-family: 'Novecento wide';
+    font-weight: 600;
+    font-style: normal;
+    color: #fff;
+    margin: 0 0 10px 0;
+}
+
 .close,
 .close:hover {
     color: #fff;
