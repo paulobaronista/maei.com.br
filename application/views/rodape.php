@@ -17,13 +17,23 @@
                 <div class="item active">
                     <div class="row">
                         <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>CIDADE JARDIM<br>
+                                    10 ANDARES - 1.500 M²<br>
+                                    ITAIM BIBI</p>
+                            </div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim.jpg" alt="Cidade Jardim">
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="row">
-                        <div class=" col-xs-12 col-md-12">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>CIDADE JARDIM<br>
+                                    10 ANDARES - 1.500 M²<br>
+                                    ITAIM BIBI</p>
+                            </div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim-2.jpg" alt="Cidade Jardim">
                         </div>
                     </div>
