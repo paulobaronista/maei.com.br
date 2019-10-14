@@ -112,6 +112,16 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Birmann-26">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Birmann-26.png" alt="Birmann 26">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                         <a data-slide="prev" href="#comerciais" class="left carousel-control">‹</a>
                         <a data-slide="next" href="#comerciais" class="right carousel-control">›</a>
@@ -158,6 +168,33 @@
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#" data-toggle="modal" data-target="#Modal-Guaruja-Tortugas">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Guaruja-Tortugas.png" alt="Guarujá Tortugas | Guarujá">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Arapacis.png" alt="Arapacis">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Heartland">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Heartland.png" alt="Heartland">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Golden-Towers">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Golden-towers.png" alt="Golden Towers">
                                         </a>
                                     </div>
                                 </div>

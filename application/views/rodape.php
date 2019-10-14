@@ -110,3 +110,47 @@
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Guaruja-Tortugas.jpg" alt="Guarujá Tortugas | Guarujá">
     </div>
 </div>
+<div class="modal fade" id="Modal-Arapacis" tabindex="-1" role="dialog" aria-labelledby="Modal-Arapacis">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="col-sm-12 text-center">
+            <p>ARAPACIS<br>
+                1 TORRE – 32 UNIDADES<br>
+                ITAIM</p>
+        </div>
+        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/arapacis-full.jpg" alt="Arapacis">
+    </div>
+</div>
+<div class="modal fade" id="Modal-Heartland" tabindex="-1" role="dialog" aria-labelledby="Modal-Heartland">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="col-sm-12 text-center">
+            <p>HEARTLAND<br>
+                2 TORRES – 96 UNIDADES<br>
+                MOEMA</p>
+        </div>
+        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/heartland-full.jpg" alt="Heartland">
+    </div>
+</div>
+<div class="modal fade" id="Modal-Golden-Towers" tabindex="-1" role="dialog" aria-labelledby="Modal-Golden-Towers">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="col-sm-12 text-center">
+            <p>GOLDEN TOWERS<br>
+                3 TORRE – 260 UNIDADES<br>
+                REAL PARQUE</p>
+        </div>
+        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-golden-towers.jpg" alt="Golden Towers">
+    </div>
+</div>
+<div class="modal fade" id="Modal-Birmann-26" tabindex="-1" role="dialog" aria-labelledby="Modal-Birmann-26">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="col-sm-12 text-center">
+            <p>BIRMANN 26<br>
+                6000 M² – 1 EDIFÍCIO<br>
+                CHÁCARA S. ANTONIO</p>
+        </div>
+        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-birmann-26.jpg" alt="Golden Towers">
+    </div>
+</div>
