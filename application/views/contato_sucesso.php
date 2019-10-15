@@ -75,20 +75,20 @@
                 <div class="col-xs-12 col-sm-6 padding-off-mobile">
                     <div class="carousel slide media-carousel" id="comerciais">
                         <div class="carousel-inner">
-                            <div class="item  active">
+                            <div class="item active">
                                 <div class="row">
-                                    <div class=" col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-trade-building">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="Trade Building">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Cidade-Jardim">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Cidade-Jardim.png" alt="Cidade Jardim">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="row">
-                                    <div class="col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-Cidade-Jardim">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Cidade-Jardim.png" alt="Cidade Jardim">
+                                    <div class=" col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-trade-building">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="Trade Building">
                                         </a>
                                     </div>
                                 </div>
@@ -107,6 +107,15 @@
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#" data-toggle="modal" data-target="#Modal-Paulista-The-Office">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-The-Office.png" alt="Paulista The Office">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Birmann-26">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Birmann-26.png" alt="Birmann 26">
                                         </a>
                                     </div>
                                 </div>
@@ -157,6 +166,33 @@
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#" data-toggle="modal" data-target="#Modal-Guaruja-Tortugas">
                                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Guaruja-Tortugas.png" alt="Guarujá Tortugas | Guarujá">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Arapacis.png" alt="Arapacis">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Heartland">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Heartland.png" alt="Heartland">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Golden-Towers">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Goldentowers.png" alt="Golden Towers">
                                         </a>
                                     </div>
                                 </div>

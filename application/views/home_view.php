@@ -121,7 +121,6 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                         <a data-slide="prev" href="#comerciais" class="left carousel-control">‹</a>
                         <a data-slide="next" href="#comerciais" class="right carousel-control">›</a>
@@ -194,7 +193,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#" data-toggle="modal" data-target="#Modal-Golden-Towers">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Golden-towers.png" alt="Golden Towers">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Goldentowers.png" alt="Golden Towers">
                                         </a>
                                     </div>
                                 </div>

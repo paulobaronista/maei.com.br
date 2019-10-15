@@ -151,6 +151,6 @@
                 6000 M² – 1 EDIFÍCIO<br>
                 CHÁCARA S. ANTONIO</p>
         </div>
-        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-birmann-26.jpg" alt="Golden Towers">
+        <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-birmann-26.jpg" alt="BIRMANN 26">
     </div>
 </div>
