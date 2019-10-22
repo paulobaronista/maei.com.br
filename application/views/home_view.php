@@ -218,7 +218,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
                     <h2>lançamentos</h2>
                     <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
-                    <p>Conheça nossos novos ícones arquitetônicos.</p>
+                    <!--<p>Conheça nossos novos ícones arquitetônicos.</p>-->
                 </div>
             </div>
         </div>
@@ -235,10 +235,10 @@
                 <h3>varanda<br>
                     cidade jardim</h3>
 
-                <p>253 m2<br>
-                    3 e 2 Suítes<br>
+                <p>Apartamentos de 253m²<br>
+                    3 Suítes<br>
                     4 Vagas<br>
-                    Depósito Privativo</p>
+                    Depósito</p>
                 <a href="https://varandacidadejardim.com.br/" target="_black">Saiba Mais</a>
             </div>
         </div>

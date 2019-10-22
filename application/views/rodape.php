@@ -3,8 +3,8 @@
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
             <p>SÃO PAULO TRADE BUILDING<br>
-                15 ANDADRES – 420 M²<br>
-                VILA OLIMPIA</p>
+                LAJES DE 400 m²<br>
+                RUA FUNCHAL</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-trade-building.png" alt="Trade Building">
     </div>
@@ -18,9 +18,9 @@
                     <div class="row">
                         <div class="col-xs-12 col-md-12">
                             <div class="col-sm-12 text-center">
-                                <p>CIDADE JARDIM<br>
-                                    10 ANDARES - 1.500 M²<br>
-                                    ITAIM BIBI</p>
+                                <p>EDIFÍCIO CIDADE JARDIM<br>
+                                    LAJES DE 1500 m²<br>
+                                    AV. CIDADE JARDIM</p>
                             </div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim.jpg" alt="Cidade Jardim">
                         </div>
@@ -30,9 +30,9 @@
                     <div class="row">
                         <div class="col-xs-12 col-md-12">
                             <div class="col-sm-12 text-center">
-                                <p>CIDADE JARDIM<br>
-                                    10 ANDARES - 1.500 M²<br>
-                                    ITAIM BIBI</p>
+                                <p>EDIFÍCIO CIDADE JARDIM<br>
+                                    LAJES DE 1500 m²<br>
+                                    AV. CIDADE JARDIM</p>
                             </div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Cidade-Jardim-2.jpg" alt="Cidade Jardim">
                         </div>
@@ -49,8 +49,8 @@
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
             <p>E-TOWER SÃO PAULO<br>
-                36 ANDARES - 635 A 1820 M²<br>
-                VILA OLIMPIA</p>
+                LAJES DE 630 A 2000 m²<br>
+                RUA FUNCHAL</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Tower-Sao-Paulo.png" alt="Tower São Paulo">
     </div>
@@ -60,8 +60,8 @@
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
             <p>PAULISTA PLAZA THE OFFICE<br>
-                192 CONJUNTOS COMERCIAIS<br>
-                PARAISO</p>
+                CONJUNTOS COMERCIAIS<br>
+                AL. SANTOS</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Paulista-The-Office.jpg" alt="Paulista The Office">
     </div>
@@ -70,8 +70,8 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>QUASAR<br>
-                275 M²<br>
+            <p>EDIFÍCIO QUASAR<br>
+                APTOS 275 m²<br>
                 MOEMA</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-ed-quasar.png" alt="Ed. Quasar">
@@ -81,8 +81,8 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>PALAZZO RAVENA<br>
-                352 M²<br>
+            <p>EDIFÍCIO PALAZZO RAVENNA<br>
+                APTOS DE 352 m²<br>
                 JARDINS</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Palazzo-Ravena.png" alt="Palazzo Ravena">
@@ -93,7 +93,7 @@
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
             <p>COND. CHAMPS ELYSÉES<br>
-                9 TORRES – 288 APTOS<br>
+                9 TORRES – APTOS DE 210 m²<br>
                 GRANJA JULIETA</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Condominio-Champs-Elysees.jpg" alt="Condomínio Champs Elysées">
@@ -103,8 +103,8 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>TORTUGA´S<br>
-                5 TORRES – 278 APTOS<br>
+            <p>COND. TORTUGA´S<br>
+                5 TORRES – APTOS DE 230 m²<br>
                 GUARUJÁ</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-Guaruja-Tortugas.jpg" alt="Guarujá Tortugas | Guarujá">
@@ -125,8 +125,8 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>HEARTLAND<br>
-                2 TORRES – 96 UNIDADES<br>
+            <p>COND. HEARTLAND<br>
+                2 TORRES – APTOS DE 110 m²<br>
                 MOEMA</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/heartland-full.jpg" alt="Heartland">
@@ -136,8 +136,8 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>GOLDEN TOWERS<br>
-                3 TORRE – 260 UNIDADES<br>
+            <p>COND. GOLDEN TOWERS<br>
+                3 TORRES – APTOS DE 190 m²<br>
                 REAL PARQUE</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-golden-towers.jpg" alt="Golden Towers">
@@ -148,8 +148,8 @@
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
             <p>BIRMANN 26<br>
-                6000 M² – 1 EDIFÍCIO<br>
-                CHÁCARA S. ANTONIO</p>
+                EDIFÍCIO COM 6000 m²<br>
+                CHÁCARA STO ANTONIO</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-birmann-26.jpg" alt="BIRMANN 26">
     </div>
