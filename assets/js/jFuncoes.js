@@ -16,6 +16,10 @@ $(document).ready(function() {
         pause: true,
         interval: false,
     });
+    $('#hotelaria').carousel({
+        pause: true,
+        interval: false,
+    });
     $('#modal-cidade-jardim').carousel({
         pause: true,
         interval: false,
