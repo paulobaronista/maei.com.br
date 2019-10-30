@@ -45,9 +45,9 @@
                 <h2>história</h2>
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/seta.png" alt="seta">
                 <h6>Uma história de realizações. Um futuro de sucesso.</h6>
-                <p>Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos 
-                    Imobiliários (antiga Munir Abbud Empreendimentos Imobiliários), que ao longo 
-                    de mais de quatro décadas vem desenvolvendo dezenas de empreendimentos 
+                <p>Tradição. Segurança. Qualidade. Estas são as marcas da M.A Empreendimentos
+                    Imobiliários (antiga Munir Abbud Empreendimentos Imobiliários), que ao longo
+                    de mais de quatro décadas vem desenvolvendo dezenas de empreendimentos
                     consagrados, ajudando escrever a história da construção civil de São Paulo.</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 margin-top-40 text-center animated wow zoomIn">
@@ -204,6 +204,29 @@
                 </div>
                 <div class="col-xs-12 col-sm-6 hidden-xs">
                     <p>empreendimentos <span>residenciais</span></p>
+                </div>
+            </div>
+            <div class="col-xs-12 visible-xs margin-top-20"></div>
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile animated wow bounceInRight">
+                <div class="col-xs-12 col-sm-6">
+                    <p class="p-r"><span>Hotelaria</span></p>
+                </div>
+                <div class="col-xs-12 col-sm-6 padding-off-mobile">
+                    <div class="carousel slide media-carousel" id="hotelaria">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Arapacis.png" alt="ARAPACIS RESIDENZA">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <a data-slide="prev" href="#hotelaria" class="left carousel-control">‹</a>
+                        <a data-slide="next" href="#hotelaria" class="right carousel-control">›</a> -->
+                    </div>
                 </div>
             </div>
         </div>

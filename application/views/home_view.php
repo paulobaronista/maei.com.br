@@ -207,13 +207,10 @@
                     <p>empreendimentos <span>residenciais</span></p>
                 </div>
             </div>
-
-
-
-            <!--<div class="col-xs-12 visible-xs margin-top-20"></div>
+            <div class="col-xs-12 visible-xs margin-top-20"></div>
             <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 padding-off-mobile animated wow bounceInRight">
                 <div class="col-xs-12 col-sm-6">
-                    <p class="p-r">empreendimentos <span>comerciais</span></p>
+                    <p class="p-r"><span>Hotelaria</span></p>
                 </div>
                 <div class="col-xs-12 col-sm-6 padding-off-mobile">
                     <div class="carousel slide media-carousel" id="hotelaria">
@@ -221,40 +218,18 @@
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-Cidade-Jardim">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Cidade-Jardim.png" alt="Cidade Jardim">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class=" col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-trade-building">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/trade-building.png" alt="Trade Building">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-Tower-Sao-Paulo">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Tower-Sao-Paulo.png" alt="Tower São Paulo">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Arapacis.png" alt="ARAPACIS RESIDENZA">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <a data-slide="prev" href="#comerciais" class="left carousel-control">‹</a>
-                        <a data-slide="next" href="#comerciais" class="right carousel-control">›</a>
+                        <!-- <a data-slide="prev" href="#hotelaria" class="left carousel-control">‹</a>
+                        <a data-slide="next" href="#hotelaria" class="right carousel-control">›</a> -->
                     </div>
                 </div>
-            </div>-->
-
-
-
-
+            </div>
         </div>
     </div>
 </div>

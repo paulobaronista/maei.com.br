@@ -114,9 +114,9 @@
     <div class="modal-dialog modal-lg" role="document">
         <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
         <div class="col-sm-12 text-center">
-            <p>ARAPACIS<br>
-                1 TORRE – 32 UNIDADES<br>
-                ITAIM</p>
+            <p>ARAPACIS RESIDENZA<br>
+                APTOS DE 120 m²<br>
+                ITAIM BIBI</p>
         </div>
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/arapacis-full.jpg" alt="Arapacis">
     </div>
