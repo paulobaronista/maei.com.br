@@ -219,7 +219,7 @@
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
                                         <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Arapacis.png" alt="ARAPACIS RESIDENZA">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/arapacis.png" alt="ARAPACIS RESIDENZA">
                                         </a>
                                     </div>
                                 </div>
