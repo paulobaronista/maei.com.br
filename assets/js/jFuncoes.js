@@ -24,6 +24,14 @@ $(document).ready(function() {
         pause: true,
         interval: false,
     });
+    $('#modal-paulista-capital').carousel({
+        pause: true,
+        interval: false,
+    });
+    $('#modal-paulista-wall-street').carousel({
+        pause: true,
+        interval: false,
+    });
 });
 
 

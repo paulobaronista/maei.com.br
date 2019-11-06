@@ -236,10 +236,20 @@ p {
     top: -25px;
 }
 
+.modal .media-carousel .carousel-control.right,
+.modal .media-carousel .carousel-control.left {
+    margin-top: 38%;
+}
 
 /* Extra Small */
 
 @media(max-width:767px) {
+
+    .modal .media-carousel .carousel-control.right,
+    .modal .media-carousel .carousel-control.left {
+        margin-top: 48%;
+    }
+
     .padding-off-mobile {
         padding-left: 0px !important;
         padding-right: 0px !important;

@@ -154,3 +154,121 @@
         <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/full-birmann-26.jpg" alt="BIRMANN 26">
     </div>
 </div>
+<div class="modal fade" id="Modal-Paulista-Capital-Plaza" tabindex="-1" role="dialog" aria-labelledby="Modal-Paulista-Capital-Plaza">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="carousel slide media-carousel" id="modal-paulista-capital">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>EDIFÍCIO PAULISTA PLAZA<br>
+                                    380 SUÍTES<br>
+                                    AL. SANTOS</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Capital-Plaza-The-Flat-8186.jpg" alt="EDIFÍCIO PAULISTA PLAZA">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>EDIFÍCIO PAULISTA PLAZA<br>
+                                    380 SUÍTES<br>
+                                    AL. SANTOS</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Capital-Plaza-The-Flat-8181.jpg" alt="EDIFÍCIO PAULISTA PLAZA">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>EDIFÍCIO PAULISTA PLAZA<br>
+                                    380 SUÍTES<br>
+                                    AL. SANTOS</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Capital-Plaza-The-Flat-8202.jpg" alt="EDIFÍCIO PAULISTA PLAZA">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>EDIFÍCIO PAULISTA PLAZA<br>
+                                    380 SUÍTES<br>
+                                    AL. SANTOS</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Capital-Plaza-The-Flat-8185.jpg" alt="EDIFÍCIO PAULISTA PLAZA">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a data-slide="prev" href="#modal-paulista-capital" class="left carousel-control">‹</a>
+            <a data-slide="next" href="#modal-paulista-capital" class="right carousel-control">›</a>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="Modal-Paulista-Wall-Street" tabindex="-1" role="dialog" aria-labelledby="Modal-Paulista-Wall-Street">
+    <div class="modal-dialog modal-lg" role="document">
+        <a class="close" data-dismiss="modal" aria-label="Close" href="">X</a>
+        <div class="carousel slide media-carousel" id="modal-paulista-wall-street">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>PAULISTA WALL STREET<br>
+                                    300 SUÍTES<br>
+                                    RUA ITAPEVA</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Wall-Street-Residence-8261.jpg" alt="PAULISTA WALL STREET">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>PAULISTA WALL STREET<br>
+                                    300 SUÍTES<br>
+                                    RUA ITAPEVA</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Wall-Street-Residence-8253.jpg" alt="PAULISTA WALL STREET">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>PAULISTA WALL STREET<br>
+                                    300 SUÍTES<br>
+                                    RUA ITAPEVA</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Wall-Street-Residence-8255.jpg" alt="PAULISTA WALL STREET">
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <div class="col-sm-12 text-center">
+                                <p>PAULISTA WALL STREET<br>
+                                    300 SUÍTES<br>
+                                    RUA ITAPEVA</p>
+                            </div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Wall-Street-Residence-8262.jpg" alt="PAULISTA WALL STREET">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a data-slide="prev" href="#modal-paulista-wall-street" class="left carousel-control">‹</a>
+            <a data-slide="next" href="#modal-paulista-wall-street" class="right carousel-control">›</a>
+        </div>
+    </div>
+</div>

@@ -219,15 +219,24 @@
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-xs-12 col-md-12">
-                                        <a href="#" data-toggle="modal" data-target="#Modal-Arapacis">
-                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/arapacis.png" alt="ARAPACIS RESIDENZA">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Paulista-Capital-Plaza">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Capital-Plaza.png" alt="EDIFÍCIO PAULISTA PLAZA">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-12">
+                                        <a href="#" data-toggle="modal" data-target="#Modal-Paulista-Wall-Street">
+                                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/Paulista-Wall-Street.png" alt="PAULISTA WALL STREET">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- <a data-slide="prev" href="#hotelaria" class="left carousel-control">‹</a>
-                        <a data-slide="next" href="#hotelaria" class="right carousel-control">›</a> -->
+                        <a data-slide="prev" href="#hotelaria" class="left carousel-control">‹</a>
+                        <a data-slide="next" href="#hotelaria" class="right carousel-control">›</a>
                     </div>
                 </div>
             </div>
