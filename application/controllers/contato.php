@@ -30,7 +30,7 @@ class Contato extends CI_Controller
 
             $this->email->from("contato@maei.com.br", "$nome"); //senha: @piTs23A
             $this->email->to('contato@maei.com.br');
-            $this->email->cc('maei@maei.com.br, jota@maei.com.br, renata@spicycomm.com.br, paulobaronista@gmail.com');
+            $this->email->cc('maei@maei.com.br, jota@maei.com.br');
 
             $this->email->subject($assunto);
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>
@@ -43,16 +43,11 @@ class Contato extends CI_Controller
                             </body></html>");
 
             if ($this->email->send()) {
-                redirect('https://www.maei.com.br/contato/obrigado');
+                redirect('http://www.maei.com.br/contato/obrigado');
             } else {
-                redirect('https://www.maei.com.br/contato/fail');
+                redirect('http://www.maei.com.br/contato/fail');
             }
 
-            // if ($this->email->send()) {
-            //     redirect('http://racklavaloucas.com.br/contato/obrigado');
-            // } else {
-            //     redirect('http://racklavaloucas.com.br/contato/fail');
-            // }
         }
 
         $this->load->view('html_header', $data);
