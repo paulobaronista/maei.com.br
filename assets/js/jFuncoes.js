@@ -85,7 +85,7 @@ $(function() {
     $('.nome').clear();
     $('.email').clear();
     $('.phone').clear();
-    $('.interesse').clear();
+    $('.assunto').clear();
     $('.msg').clear();
 
     $('.btn_enviar').on('click', function() {
@@ -94,7 +94,7 @@ $(function() {
         n = $('.nome').val();
         e = $('.email').val();
         t = $('.phone').val();
-        i = $('.interesse').val();
+        i = $('.assunto').val();
         m = $('.msg').val();
     });
 

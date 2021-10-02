@@ -20,9 +20,9 @@ class Contato extends CI_Controller
             $nome = $this->input->post('nome');
             $email = $this->input->post('email');
             $telefone = $this->input->post('phone');
-            $interesse = $this->input->post('interesse');
+            $assunto = $this->input->post('assunto');
             $mensagem = utf8_decode($this->input->post('mss'));
-            $assunto = utf8_decode('Contato enviado pelo site www.maei.com.br');
+            $subject = utf8_decode('Contato enviado pelo site www.maei.com.br');
 
             $this->load->library('email');
             $config['mailtype'] = 'html';
@@ -30,24 +30,35 @@ class Contato extends CI_Controller
 
             $this->email->from("contato@maei.com.br", "$nome"); //senha: @piTs23A
             $this->email->to('contato@maei.com.br');
-            $this->email->cc('maei@maei.com.br, jota@maei.com.br');
+            $this->email->cc('paulobaronista@gmail.com');
 
-            $this->email->subject($assunto);
+            $this->email->subject($subject);
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>
             <head> <meta http-equiv='content-type' content='text/html;charset=UTF-8' /> </head><body>
             Nome:		{$nome}<br/>
                 Telefone:	{$telefone}<br/>
                     E-mail:		{$email}<br/>
-                        Assunto:	{$interesse}<br/>
+                        Assunto:	{$assunto}<br/>
                             Mensagem:	{$mensagem}<br/>
                             </body></html>");
 
+
+            $banco = array(
+                'nome' => $this->input->post('nome'),
+                'email' => $this->input->post('email'),
+                'telefone' => $this->input->post('phone'),
+                'assunto' => $this->input->post('assunto'),
+                'mensagem' => $this->input->post('mss'),
+                'created' => date('Y-m-d H:i:s'),
+            );
+
+            $this->db->insert('contatos', $banco);
+            
             if ($this->email->send()) {
                 redirect('http://www.maei.com.br/contato/obrigado');
             } else {
                 redirect('http://www.maei.com.br/contato/fail');
             }
-
         }
 
         $this->load->view('html_header', $data);

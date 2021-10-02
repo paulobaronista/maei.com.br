@@ -322,7 +322,7 @@
                             <input id="email" type="email" class="email form-control" name="email" required="required" placeholder="E-mail:*" />
                         </div>
                         <div class="col-xs-12 col-md-12 padding-off-mobile form-group">
-                            <input id="interesse" type="text" class="interesse form-control" name="interesse" placeholder="Assunto:" />
+                            <input id="assunto" type="text" class="assunto form-control" name="assunto" placeholder="Assunto:" />
                         </div>
                         <div class="col-xs-12 col-md-8 padding-off-mobile form-group">
                             <textarea id="form-mensagem" class="msg form-control" rows="3" name="mss" placeholder="Mensagem:"></textarea>

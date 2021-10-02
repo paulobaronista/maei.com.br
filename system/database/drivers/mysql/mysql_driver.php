@@ -88,7 +88,7 @@ class CI_DB_mysql_driver extends CI_DB {
 			$this->hostname .= ':'.$this->port;
 		}
 
-		return @mysql_pconnect($this->hostname, $this->username, $this->password);
+		return mysqli_connect($this->hostname, $this->username, $this->password);
 	}
 
 	// --------------------------------------------------------------------
@@ -120,7 +120,7 @@ class CI_DB_mysql_driver extends CI_DB {
 	 */
 	function db_select()
 	{
-		return @mysql_select_db($this->database, $this->conn_id);
+		return mysqli_select_db($this->database, $this->conn_id);
 	}
 
 	// --------------------------------------------------------------------
